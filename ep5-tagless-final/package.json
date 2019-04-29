@@ -1,0 +1,9 @@
+{
+  "name": "ep5-tagless-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fp-ts": "^1.17.2"
+  }
+}
